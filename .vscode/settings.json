@@ -1,7 +1,6 @@
 {
     "better-comments.highlightPlainText": true,
     "css.validate": false,
-    "css.watcherEnabled": false,
     "editor.accessibilitySupport": "off",
     "editor.codeActionsOnSave": {
       "addMissingImports": true,
