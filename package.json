@@ -52,6 +52,7 @@
       "@typescript-eslint"
     ],
     "rules": {
+      "@typescript-eslint/no-var-requires": 1,
       "react/react-in-jsx-scope": 0
     }
   },
