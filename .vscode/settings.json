@@ -18,6 +18,9 @@
     "editor.tabSize": 2,
     "editor.wordWrap": "wordWrapColumn",
     "editor.wordWrapColumn": 80,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
     "eslint.debug": true,
     "files.autoSave": "onFocusChange",
     "files.eol": "\n",
